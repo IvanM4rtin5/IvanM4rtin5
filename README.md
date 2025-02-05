@@ -8,7 +8,7 @@ Como desenvolvedor, sou especialista em criar sites, landing pages, blogs, aplic
 
 Também tenho conhecimento em bibliotecas como **Axios**, **PrimeVue** e **Bootstrap**, além de experiência com ferramentas de desenvolvimento como **Insomnia** e **Postman** para trabalhar com APIs. No backend, tenho familiaridade com **SQL** para gerenciamento de bancos de dados.
 
-## Habilidades Técnicas
+## 🚀  Habilidades Técnicas
 
 ### Frontend
 - **React** | **Vue.js** | **JavaScript** | **CSS** | **Styled-Components** | **Bootstrap** | **PrimeVue**
