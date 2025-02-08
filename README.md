@@ -10,13 +10,14 @@ Também tenho conhecimento em bibliotecas como **Axios**, **PrimeVue** e **Boots
 ### 🚀  Habilidades Técnicas
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents)](https://skillicons.dev)
 
 ### Backend
-- **Node.js** | **Python** | **SQL**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman, )](https://skillicons.dev)
+
 
 ### Ferramentas
-- **Git** | **GitHub** | **GitLab** | **Insomnia** | **Postman** | **Axios**
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion)](https://skillicons.dev)
 
 ### Versionamento de Código
 - Experiência com **Git**, **GitHub** e **GitLab**, incluindo comandos Git para controle de versão e colaboração em equipe.
