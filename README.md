@@ -10,7 +10,7 @@ Também tenho conhecimento em bibliotecas como **Axios**, **PrimeVue** e **Boots
 ### 🚀  Habilidades Técnicas
 
 ### Frontend
-- **React** | **Vue.js** | **JavaScript** | **CSS** | **Styled-Components** | **Bootstrap** | **PrimeVue**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 
 ### Backend
 - **Node.js** | **Python** | **SQL**
