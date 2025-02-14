@@ -33,7 +33,7 @@ Também tenho conhecimento em bibliotecas como **Axios**, **PrimeVue** e **Boots
 ### 📚 Projetos Destacados
 
 - [Projeto 1](https://github.com/IvanM4rtin5/DtMoney-Frontend) - Aplicativo finaceiro.
-- [Projeto 2](portfolio-prime.netlify.app/) - Projeto do meu Portfolio feito com react.vite.
+- [Projeto 2](https://portfolio-prime.netlify.app/) - Projeto do meu Portfolio feito com react.vite.
 
 ### 🔗 Links p/ Contato
 
