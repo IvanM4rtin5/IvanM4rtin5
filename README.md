@@ -2,8 +2,6 @@
 
 ### Sobre Mim
 
-❤️Tenho paixão em desenvolver soluções web inovadoras.
-
 ❤️ Apaixonado por desenvolvimento web, crio soluções inovadoras como sites, landing pages, blogs e aplicativos integrados a APIs. Especializado em **React**, **Vue.js**, **Python**, **Styled-Components**, **CSS**, **Typescript**, **JavaScript** e **Node.js**, foco em experiências centradas no usuário e soluções de alta qualidade. Também domino bibliotecas como **Axios**, **PrimeVue**, **Bootstrap** e ferramentas como **Insomnia** e **Postman** para APIs. No backend, trabalho com **SQL** para gerenciamento de bancos de dados.
 
 ### 🚀  Habilidades Técnicas
