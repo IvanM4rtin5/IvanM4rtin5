@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,nodejs,postgres,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgres,)](https://skillicons.dev)
 
 
 ### Ferramentas
