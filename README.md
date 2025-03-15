@@ -27,7 +27,7 @@
 
 ### 📚 Projetos Destacados
 
-- [Projeto 1](dtmoney-financial-app.netlify.app/) - Aplicativo finaceiro.
+- [Projeto 1](https://dtmoney-financial-app.netlify.app/) - Aplicativo finaceiro.
 - [Projeto 2](https://ivan-martins-alves.netlify.app/) - Projeto do meu Portfolio feito com react.vite.
 
 ### 🔗 Links p/ Contato
