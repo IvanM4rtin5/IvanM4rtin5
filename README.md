@@ -80,4 +80,8 @@ Let's talk! You can find me here:
 **Technology drives the world, and I love being part of it!** 🚀
 ---
 
+## 📊 Estatísticas de Linguagens
+
+[![Grágico de Linguagens](https://metrics.lecoq.io/IvanM4rtin5?languages=1&languages.colors=github&languages.threshold=0%&theme=dark)](https://github.com/IvanM4rtin5)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark&hide=html,css)](https://github.com/IvanM4rtin5)
