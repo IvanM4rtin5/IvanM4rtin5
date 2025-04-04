@@ -37,7 +37,6 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark&hide=html,css)](https://github.com/IvanM4rtin5)
 
 ## About Me
 
@@ -80,3 +79,5 @@ Let's talk! You can find me here:
 ---
 **Technology drives the world, and I love being part of it!** 🚀
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark&hide=html,css)](https://github.com/IvanM4rtin5)
