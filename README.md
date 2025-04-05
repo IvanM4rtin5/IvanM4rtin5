@@ -40,7 +40,7 @@
 
 ## About Me
 
-❤️ Passionate about web development, I create innovative solutions like websites, landing pages, blogs, and apps integrated with APIs. Specialized in **React**, **Vue.js**, **Python**, **Styled-Components**, **CSS**, **Typescript**, **JavaScript**, and **Node.js**, I focus on user-centered experiences and high-quality solutions. I am also skilled in libraries like **Axios**, **PrimeVue**, **Bootstrap**, and tools such as **Insomnia** and **Postman** for API development. On the backend, I work with **SQL** for database management.
+Passionate about web development, I create innovative solutions like websites, landing pages, blogs, and apps integrated with APIs. Specialized in **React**, **Vue.js**, **Python**, **Styled-Components**, **CSS**, **Typescript**, **JavaScript**, and **Node.js**, I focus on user-centered experiences and high-quality solutions. I am also skilled in libraries like **Axios**, **PrimeVue**, **Bootstrap**, and tools such as **Insomnia** and **Postman** for API development. On the backend, I work with **SQL** for database management.
 
 ## 🚀  Technical Skills
 
