@@ -68,15 +68,12 @@
 - [Project 1](https://dtmoney-financial-app.netlify.app/) - Financial app.
 - [Project 2](https://ivan-martins-alves.netlify.app/) - My portfolio project made with React & Vite.
 
----
-**Technology drives the world, and I love being part of it!** 🚀
----
 
 ## 📊 Estatísticas de Linguagens
 
-[![Gráfico de Linguagens](https://metrics.lecoq.io/IvanM4rtin5?languages=1&languages.colors=github&languages.threshold=0%25&theme=dark)](https://github.com/IvanM4rtin5)
+[![Gráfico de Linguagens](https://metrics.lecoq.io/IvanM4rtin5?languages=1&languages.colors=github&languages.threshold=0%25&languages.limit=5&theme=dark)](https://github.com/IvanM4rtin5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark&hide=html,css)](https://github.com/IvanM4rtin5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark)](https://github.com/IvanM4rtin5)
 
 ---
 ## 🔗 Contact Links
@@ -86,3 +83,7 @@ Let's talk! You can find me here:
 - **Gitlab:** [Ivan Martins](https://gitlab.com/ivanmarti.alves)
 - **LinkedIn:** [Ivan Martins](https://www.linkedin.com/in/ivan-martins-alves/)
 - **E-mail:** ivanmarti.alves@gmail.com
+
+---
+**Technology drives the world, and I love being part of it!** 🚀
+---
