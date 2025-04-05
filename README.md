@@ -46,15 +46,19 @@
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="70" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="200" />
 </div>
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgres&size=7 )](https://skillicons.dev)
-
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgre"width="200" />
+</div>
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size=7 )](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size"width="200" />
+</div>
+
 
 
 ## What I Do
