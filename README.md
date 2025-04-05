@@ -73,7 +73,8 @@
 
 [![Gráfico de Linguagens](https://metrics.lecoq.io/IvanM4rtin5?languages=1&languages.colors=github&languages.threshold=0%25&languages.limit=5&theme=dark)](https://github.com/IvanM4rtin5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark)](https://github.com/IvanM4rtin5)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/IvanM4rtin5#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=default#gh-light-mode-only)](https://github.com/IvanM4rtin5#gh-light-mode-only)
 
 ---
 ## 🔗 Contact Links
