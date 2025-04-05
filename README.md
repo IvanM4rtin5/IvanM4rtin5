@@ -45,7 +45,9 @@
 ## 🚀  Technical Skills
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents&size=7 )](https://skillicons.dev)
+<div>
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="15" />
+</div>
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgres&size=7 )](https://skillicons.dev)
