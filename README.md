@@ -73,8 +73,6 @@
 
 [![Ivan Martins GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IvanM4rtin5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/IvanM4rtin5/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Ivan Martins GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IvanM4rtin5\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/IvanM4rtin5/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
-
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/IvanM4rtin5#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=default#gh-light-mode-only)](https://github.com/IvanM4rtin5#gh-light-mode-only)
 
