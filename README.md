@@ -45,14 +45,14 @@
 ## 🚀  Technical Skills
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents&size=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents&size=7 )](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgres&size=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgres&size=7 )](https://skillicons.dev)
 
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size=7 )](https://skillicons.dev)
 
 
 ## What I Do
