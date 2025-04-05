@@ -68,14 +68,36 @@
 - [Project 1](https://dtmoney-financial-app.netlify.app/) - Financial app.
 - [Project 2](https://ivan-martins-alves.netlify.app/) - My portfolio project made with React & Vite.
 
-
 ## 📊 Estatísticas de Linguagens
 
-[![Ivan Martins GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IvanM4rtin5\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/IvanM4rtin5/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Ivan Martins GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IvanM4rtin5\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/IvanM4rtin5/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/IvanM4rtin5#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=default#gh-light-mode-only)](https://github.com/IvanM4rtin5#gh-light-mode-only)
+<table align="center">
+  <tr>
+    <!-- GitHub Stats -->
+    <td>
+      <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=dark" alt="GitHub Stats (Dark)" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=default" alt="GitHub Stats (Light)" />
+      </a>
+    </td>
+    <!-- Espaçamento (Margem) -->
+    <td width="50">&nbsp;</td>
+    <!-- Top Langs -->
+    <td>
+      <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark" alt="Top Langs (Dark)" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=default" alt="Top Langs (Light)" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🔗 Contact Links
