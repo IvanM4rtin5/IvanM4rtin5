@@ -46,7 +46,7 @@
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="30" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="70" />
 </div>
 
 ### Backend
