@@ -83,8 +83,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=default" alt="GitHub Stats (Light)" />
       </a>
     </td>
-    <!-- Espaçamento (Margem) -->
-    <td width="50">&nbsp;</td>
     <!-- Top Langs -->
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
