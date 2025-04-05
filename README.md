@@ -46,12 +46,12 @@
 
 ### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="200" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,vite,vue,nuxtjs,styledcomponents" width="300" />
 </div>
 
 ### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgre"width="200" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgre"width="250" />
 </div>
 
 ### Tools
