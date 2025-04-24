@@ -48,7 +48,7 @@ Passionate about web development, I create innovative solutions like websites, l
     <!-- GitHub Stats -->
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&rank_icon=github&theme=default" alt="GitHub Stats (Dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats (Dark)" />
       </a>
     </td>
     <td>
