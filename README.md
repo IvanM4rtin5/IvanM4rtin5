@@ -3,15 +3,11 @@
    Hi, My name is Ivan Martins and I'm a Web Developer, from Brazil.
 </h2>
 
-<br></br>
-
-### About Me
+### About Me 
 
 Passionate about web development, I create innovative solutions like websites, landing pages, blogs, and apps integrated with APIs. Specialized in **React**, **Vue.js**, **Python**, **Styled-Components**, **CSS**, **Typescript**, **JavaScript**, and **Node.js**, I focus on user-centered experiences and high-quality solutions. I am also skilled in libraries like **Axios**, **PrimeVue**, **Bootstrap**, and tools such as **Insomnia** and **Postman** for API development. On the backend, I work with **SQL** for database management.
 
-<br></br>
 ---
-
 ### 🚀  Technical Skills
 
 ### Frontend
@@ -29,9 +25,7 @@ Passionate about web development, I create innovative solutions like websites, l
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size"width="200" />
 </div>
 
-<br></br>
 ---
-
 ### What I Do
 
 - Development of **landing pages** and **responsive websites**.
@@ -40,14 +34,11 @@ Passionate about web development, I create innovative solutions like websites, l
 - Implementation of **full-stack** solutions focused on performance and usability.
 - Work with **RESTful APIs** and tools like **Insomnia** and **Postman** for testing and integration.
 
-<br></br>
 ---
 ### 📚 Featured Projects
-
 - [Project 1](https://dtmoney-financial-app.netlify.app/) - Financial app.
 - [Project 2](https://ivan-martins-alves.netlify.app/) - My portfolio project made with React & Vite.
 
-<br></br>
 ---
 ### 📊 Estatísticas de Linguagens
 
@@ -68,7 +59,6 @@ Passionate about web development, I create innovative solutions like websites, l
       </a>
 </div>
 
-<br></br>
 ---
 ### 🔗 Contact Links
 
@@ -92,7 +82,6 @@ Let's talk! You can find me here:
   </a>
 </div>
 
-<br></br>
 ---
 
 **Technology drives the world, and I love being part of it!** 🚀
