@@ -58,13 +58,8 @@ Passionate about web development, I create innovative solutions like websites, l
     </td>
     <!-- Top Langs -->
     <td>
-      <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark" alt="Top Langs (Dark)" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=default" alt="Top Langs (Light)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=tokyonight" alt="Top Langs (Light)" />
       </a>
     </td>
   </tr>
