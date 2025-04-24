@@ -51,11 +51,6 @@ Passionate about web development, I create innovative solutions like websites, l
         <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats (Dark)" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats (Light)" />
-      </a>
-    </td>
     <!-- Top Langs -->
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
