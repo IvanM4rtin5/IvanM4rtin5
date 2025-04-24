@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ivan Martins and I'm a Web Developer, from Brazil.</h2>
+<h2 align="center">
+  Hi, My name is Ivan Martins and I'm a Web Developer, from Brazil.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand gif"/>
+</h2>
+
 
 
 ## About Me
@@ -44,7 +48,7 @@ Passionate about web development, I create innovative solutions like websites, l
     <!-- GitHub Stats -->
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&rank_icon=github" alt="GitHub Stats (Dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&rank_icon=github&theme=default" alt="GitHub Stats (Dark)" />
       </a>
     </td>
     <td>
