@@ -1,6 +1,6 @@
 <h2 align="center">
-  Hi, My name is Ivan Martins and I'm a Web Developer, from Brazil.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand gif"/>
+   Hi, My name is Ivan Martins and I'm a Web Developer, from Brazil.
 </h2>
 
 
@@ -53,7 +53,7 @@ Passionate about web development, I create innovative solutions like websites, l
     </td>
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=default" alt="GitHub Stats (Light)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=tokyonight" alt="GitHub Stats (Dark)" />
       </a>
     </td>
     <!-- Top Langs -->
