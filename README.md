@@ -1,22 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ivan Martins and I'm a Web Developer, from Brazil.</h2>
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-
-
 ## About Me
 
 Passionate about web development, I create innovative solutions like websites, landing pages, blogs, and apps integrated with APIs. Specialized in **React**, **Vue.js**, **Python**, **Styled-Components**, **CSS**, **Typescript**, **JavaScript**, and **Node.js**, I focus on user-centered experiences and high-quality solutions. I am also skilled in libraries like **Axios**, **PrimeVue**, **Bootstrap**, and tools such as **Insomnia** and **Postman** for API development. On the backend, I work with **SQL** for database management.
@@ -60,7 +44,7 @@ Passionate about web development, I create innovative solutions like websites, l
     <!-- GitHub Stats -->
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=dark" alt="GitHub Stats (Dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&rank_icon=github" alt="GitHub Stats (Dark)" />
       </a>
     </td>
     <td>
