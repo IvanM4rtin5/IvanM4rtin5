@@ -53,7 +53,7 @@ Passionate about web development, I create innovative solutions like websites, l
     </td>
     <td>
       <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=tokyonight" alt="GitHub Stats (Dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=tokyonight" alt="GitHub Stats (Light)" />
       </a>
     </td>
     <!-- Top Langs -->
