@@ -83,7 +83,7 @@ Let's talk! You can find me here:
   </a>
 </div>
 
-<br></br>
 ---
-**Technology drives the world, and I love being part of it!** 🚀
+
+### Technology drives the world, and I love being part of it! 🚀
 
