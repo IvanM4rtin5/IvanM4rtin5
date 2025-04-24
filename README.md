@@ -3,13 +3,16 @@
    Hi, My name is Ivan Martins and I'm a Web Developer, from Brazil.
 </h2>
 
+<br></br>
 
-
-## About Me
+### About Me
 
 Passionate about web development, I create innovative solutions like websites, landing pages, blogs, and apps integrated with APIs. Specialized in **React**, **Vue.js**, **Python**, **Styled-Components**, **CSS**, **Typescript**, **JavaScript**, and **Node.js**, I focus on user-centered experiences and high-quality solutions. I am also skilled in libraries like **Axios**, **PrimeVue**, **Bootstrap**, and tools such as **Insomnia** and **Postman** for API development. On the backend, I work with **SQL** for database management.
 
-## 🚀  Technical Skills
+<br></br>
+---
+
+### 🚀  Technical Skills
 
 ### Frontend
 <div>
@@ -26,9 +29,10 @@ Passionate about web development, I create innovative solutions like websites, l
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size"width="200" />
 </div>
 
+<br></br>
+---
 
-
-## What I Do
+### What I Do
 
 - Development of **landing pages** and **responsive websites**.
 - Creation of **web applications** with API integration.
@@ -36,46 +40,39 @@ Passionate about web development, I create innovative solutions like websites, l
 - Implementation of **full-stack** solutions focused on performance and usability.
 - Work with **RESTful APIs** and tools like **Insomnia** and **Postman** for testing and integration.
 
-## 📚 Featured Projects
+<br></br>
+---
+### 📚 Featured Projects
 
 - [Project 1](https://dtmoney-financial-app.netlify.app/) - Financial app.
 - [Project 2](https://ivan-martins-alves.netlify.app/) - My portfolio project made with React & Vite.
 
-## 📊 Estatísticas de Linguagens
+<br></br>
+---
+### 📊 Estatísticas de Linguagens
 
-<table align="center">
-  <tr>
+<div align="center">
     <!-- GitHub Stats -->
-    <td>
       <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&rank_icon=github" alt="GitHub Stats (Dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&rank_icon=github&theme=tokyonight" alt="GitHub Stats (Dark)" />
       </a>
-    </td>
-    <td>
       <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=IvanM4rtin5&show_icons=true&theme=default" alt="GitHub Stats (Light)" />
       </a>
-    </td>
     <!-- Top Langs -->
-    <td>
       <a href="https://github.com/IvanM4rtin5#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=dark" alt="Top Langs (Dark)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=tokyonight" alt="Top Langs (Dark)" />
       </a>
-    </td>
-    <td>
       <a href="https://github.com/IvanM4rtin5#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanM4rtin5&layout=compact&theme=default" alt="Top Langs (Light)" />
       </a>
-    </td>
-  </tr>
-</table>
+</div>
 
+<br></br>
 ---
-## 🔗 Contact Links
+### 🔗 Contact Links
 
 Let's talk! You can find me here:
-
-###
 
   </a>
   <a href="https://www.instagram.com/ivanmarti.alves" target="_blank">
@@ -95,7 +92,8 @@ Let's talk! You can find me here:
   </a>
 </div>
 
-
+<br></br>
 ---
+
 **Technology drives the world, and I love being part of it!** 🚀
 ---
