@@ -77,7 +77,7 @@ Let's talk! You can find me here:
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
 
-<a href="https://discord.com/users/ivan_marti_alves" target="_blank" rel="noopener noreferrer">
+<a href="https://discord.com/users/864463892583415819" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
 
