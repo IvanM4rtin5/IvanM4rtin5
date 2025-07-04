@@ -21,12 +21,12 @@ Passionate about web development, I create innovative solutions like websites, l
 
 #### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,py,npm,docker,postman,postgre" width="250" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,npm,docker,django,fastapi,postgres" width="250" />
 </div>
 
 #### Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode&size" width="200" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,notion,postman,netlify,vscode&size" width="200" />
 </div>
 
 ---
